@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<forms:FormsApplication 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:forms="clr-namespace:Caliburn.Micro.Xamarin.Forms;assembly=Caliburn.Micro.Platform.Xamarin.Forms"
+    x:Class="Bugreports.App">
+    <Application.Resources>
+        <!-- Application resource dictionary -->
+    </Application.Resources>
+</forms:FormsApplication>
